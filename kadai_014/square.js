@@ -1,4 +1,4 @@
 const i = (number) => {
-  console.log(number * number);
+  return number * number;
 }
-i(10);
+console.log(i(10));
