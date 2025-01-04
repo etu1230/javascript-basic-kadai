@@ -1,6 +1,5 @@
-let bmi;
-kg = 68;
-m = 1.7;
+let kg = 68;
+let m = 1.7;
 
-
-console.log(kg / (m * m));
+let bmi = (kg / (m * m));
+console.log(bmi);
